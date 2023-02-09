@@ -1,0 +1,11 @@
+id: e314a98bcb3e4d0b821a203f73ebd360
+annotation_type: index
+revision: '00001'
+annotations:
+  49f8f5d007ef4cacbbc7772eb3e87998:
+    base: 9DC4.txt
+    Chapters:
+    - title: Kaṭhinavastu
+      span:
+        start: 0
+        end: 373
